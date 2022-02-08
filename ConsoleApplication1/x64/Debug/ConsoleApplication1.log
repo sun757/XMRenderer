@@ -1,0 +1,17 @@
+﻿  skybox.cpp
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\include\shader.h(43,40): warning C4101: 'e': unreferenced local variable
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\include\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\include\mesh.h(106,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(180,94): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(186,97): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(194,100): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(254,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(371,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(372,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(376,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(377,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(379,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(380,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(404,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\sunxi\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  0 File(s) copied

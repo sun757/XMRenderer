@@ -1,0 +1,30 @@
+﻿  skybox.cpp
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\include\shader.h(43,40): warning C4101: 'e': unreferenced local variable
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\include\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\include\mesh.h(106,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\include\glfwWindow.h(67,18): warning C5043: 'terminate': exception specification does not match previous declaration
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_terminate.h(33): message : see declaration of 'terminate'
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\include\glfwWindow.h(67,18): warning C4273: 'terminate': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_terminate.h(33,48): message : see previous definition of 'terminate'
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(225,94): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(234,124): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(244,97): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(253,100): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(262,94): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(313,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(445,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(446,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(450,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(451,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(453,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(454,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunxi\source\repos\ConsoleApplication1\ConsoleApplication1\src\skybox.cpp(478,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\sunxi\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.lib and object C:\Users\sunxi\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  0 of 668 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\sunxi\source\repos\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
+  0 File(s) copied
